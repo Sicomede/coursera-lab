@@ -1,10 +1,9 @@
-markdown
-# coursera-lab
+coursera-lab
 
 A working archive of guided projects and capstones completed through Coursera. 
 Each subdirectory is a self-contained project with its own context, code, and notes.
 
-## Structure
+Structure
 
 ```
 coursera-lab/
@@ -23,7 +22,7 @@ coursera-lab/
     └── <slug>.pdf         # one file per completed course or specialization
 ```
 
-## Conventions
+Conventions
 
 - **Project slug**: lowercase, hyphenated, descriptive (e.g. `pandas-data-cleaning`, 
   not `course-1-week-3`)
@@ -41,20 +40,22 @@ coursera-lab/
   as the project they correspond to. Each project README links to its certificate 
   when one exists.
 
-## Index
+```
+Index
 
 | Project | Type | Stack | Status |
 |---------|------|-------|--------|
 | _populated as projects land_ | | | |
+```
 
-## Licensing
+Licensing
 
 Code in this repository is released under the [Apache License 2.0](LICENSE). 
 Course-provided starter code, datasets, and assignment prompts remain the 
 property of Coursera and the originating institutions; nothing proprietary 
 is reproduced here.
 
-## Why this repo exists
+Why this repo exists
 
 Guided projects are short and easy to lose track of. Capstones deserve more 
 visibility than a buried certificate page. This is the durable record.
