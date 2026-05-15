@@ -1,4 +1,4 @@
-```markdown
+markdown
 # coursera-lab
 
 A working archive of guided projects and capstones completed through Coursera. 
@@ -6,6 +6,7 @@ Each subdirectory is a self-contained project with its own context, code, and no
 
 ## Structure
 
+```
 coursera-lab/
 ├── guided/
 │   └── <project-slug>/
@@ -20,6 +21,7 @@ coursera-lab/
 └── certificates/
     ├── README.md          # index of credentials with dates and links
     └── <slug>.pdf         # one file per completed course or specialization
+```
 
 ## Conventions
 
@@ -56,4 +58,3 @@ is reproduced here.
 
 Guided projects are short and easy to lose track of. Capstones deserve more 
 visibility than a buried certificate page. This is the durable record.
-```
