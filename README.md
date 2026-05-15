@@ -6,7 +6,6 @@ Each subdirectory is a self-contained project with its own context, code, and no
 
 ## Structure
 
-```
 coursera-lab/
 ├── guided/
 │   └── <project-slug>/
@@ -21,7 +20,6 @@ coursera-lab/
 └── certificates/
     ├── README.md          # index of credentials with dates and links
     └── <slug>.pdf         # one file per completed course or specialization
-```
 
 ## Conventions
 
