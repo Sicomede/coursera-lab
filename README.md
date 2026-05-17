@@ -18,7 +18,6 @@ coursera-lab/
 │       ├── src/
 │       └── notes.md
 └── certificates/
-    ├── README.md          # index of credentials with dates and links
     └── <slug>.pdf         # one file per completed course or specialization
 ```
 
