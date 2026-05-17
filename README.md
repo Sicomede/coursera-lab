@@ -37,8 +37,7 @@ coursera-lab/
   provided by Coursera; modifications and extensions are mine."* Projects built 
   entirely from scratch omit the line.
 - **Certificates**: Stored as PDFs in `/certificates/`, named with the same slug 
-  as the project they correspond to. Each project README links to its certificate 
-  when one exists.
+  as the project they correspond to.
 
 **Index**
 
