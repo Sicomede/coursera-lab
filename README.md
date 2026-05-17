@@ -5,7 +5,7 @@ Each subdirectory is a self-contained project with its own context, code, and no
 
 **Structure**
 
-```
+
 coursera-lab/
 ├── guided/
 │   └── <project-slug>/
@@ -20,7 +20,7 @@ coursera-lab/
 └── certificates/
     ├── README.md          # index of credentials with dates and links
     └── <slug>.pdf         # one file per completed course or specialization
-```
+
 
 **Conventions**
 
@@ -45,8 +45,8 @@ coursera-lab/
 
 
 | Project | Type | Stack | Status |
-| Business Analysis and Process Management (CraftVerify) | guided | draw.io, BPMN 2.0, RACI, DFD | Complete |
 |---------|------|-------|--------|
+| Business Analysis and Process Management (CraftVerify) | guided | draw.io, BPMN 2.0, RACI, DFD | Complete |
 | _populated as projects land_ | | | |
 
 
