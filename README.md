@@ -43,12 +43,12 @@ coursera-lab/
 
 **Index**
 
-```
+
 | Project | Type | Stack | Status |
 | Business Analysis and Process Management (CraftVerify) | guided | draw.io, BPMN 2.0, RACI, DFD | Complete |
 |---------|------|-------|--------|
 | _populated as projects land_ | | | |
-```
+
 
 **Licensing**
 
