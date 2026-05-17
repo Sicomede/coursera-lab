@@ -4,6 +4,7 @@ A working archive of guided projects and capstones completed through Coursera.
 Each subdirectory is a self-contained project with its own context, code, and notes.
 
 **Structure**
+
 ```
 coursera-lab/
 ├── guided/
@@ -41,11 +42,14 @@ coursera-lab/
   when one exists.
 
 **Index**
+
 ```
 | Project | Type | Stack | Status |
+| Business Analysis and Process Management (CraftVerify) | guided | draw.io, BPMN 2.0, RACI, DFD | Complete |
 |---------|------|-------|--------|
 | _populated as projects land_ | | | |
 ```
+
 **Licensing**
 
 Code in this repository is released under the [Apache License 2.0](LICENSE). 
